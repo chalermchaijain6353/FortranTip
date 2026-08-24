@@ -9,3 +9,4 @@
 - fix: add a note about the defaults
 - fix: clarify the setup steps
 - docs: clarify the setup steps
+- chore: fix a small wording issue
